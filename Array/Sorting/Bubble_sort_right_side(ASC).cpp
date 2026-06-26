@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    // i want to print every step of array during the sorting process
-
     int arr[]={6,5,4,8,2,1};
     int n=6;
     for(int i=0;i<n;i++){
